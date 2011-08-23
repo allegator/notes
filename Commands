@@ -1,0 +1,40 @@
+== Commands
+
++ ls
+- cd
+- mkdir
+- touch
++ man
+- ifconfig
+- ssh
+- cp
+- mv
+- cat
+- echo
+- vim
+- env
+- rm
+- sudo
++ chmod
+- chown
+- ps
+- grep
+- screen
+
+- top
+- rmdir
+- find
+- xargs
+- git
+- date
+
+== Concepts
+
+- Terminal/Shell
+- Bash
+- Environment variables
+- Pipes |
+- Redirect >
+- Networking/Subnets/IP Addresses
+- File modes
+
